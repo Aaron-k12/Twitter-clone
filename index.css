@@ -156,14 +156,13 @@ textarea{
 
 /* modal */
 .outer-modal {
-    display: none;
+
     position: fixed;
     top: 300px;
     left: 0;
     right: 0;
-    width: 40%;
+    width: 20%;
     margin: 0 auto;
-    
 }
 
 .inner-modal {
