@@ -1,0 +1,4 @@
+*.md
+.vscode
+*.json
+vite.config.js
