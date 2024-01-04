@@ -156,7 +156,7 @@ textarea{
 
 /* modal */
 .outer-modal {
-
+    display: none;
     position: fixed;
     top: 300px;
     left: 0;
